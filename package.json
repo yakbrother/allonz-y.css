@@ -1,0 +1,14 @@
+{
+  "name": "allonz-y.css",
+  "version": "13.0.0",
+  "description": "A personal CSS repository for basic typography",
+  "author": "Tim Eaton <tim@timeaton.dev>",
+  "license": "CC0-1.0",
+  "repository": "yakbrother/allonz-y.css",
+  "main": "allonz-y.css",
+  "keywords": [
+    "css",
+    "typography",
+    "browsers"
+  ]
+}
