@@ -1,14 +1,24 @@
 {
-  "name": "allonz-y.css",
+  "name": "@yakbrother/allonz-y.css",
   "version": "1.0.0",
   "description": "A personal CSS repository for basic typography",
   "author": "Tim Eaton <tim@timeaton.dev>",
   "license": "CC0-1.0",
-  "repository": "yakbrother/allonz-y.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yakbrother/allonz-y.css.git"
+  },
   "main": "allonz-y.css",
   "keywords": [
     "css",
     "typography",
     "browsers"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/yakbrother/allonz-y.css/issues"
+  },
+  "homepage": "https://github.com/yakbrother/allonz-y.css#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
